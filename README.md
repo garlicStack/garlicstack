@@ -24,15 +24,13 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-  ![Express](https://img.shields.io/badge/-Express-787878?style=flat-square&logo=Express)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat-square&logo=flask)
+  ![Express](https://img.shields.io/badge/-Express-787878?style=flat-square&logo=Express)  
   ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-119149?style=flat-square&logo=mongodb)
   ![SQLite](https://img.shields.io/badge/-SQLite-28739e?style=flat-square&logo=sqlite)
-- ☁ &nbsp;
-  ![Heroku](https://img.shields.io/badge/-Heroku-6324e0?style=flat-square&logo=Heroku)
+- ☁ &nbsp;  
   ![XAMPP](https://img.shields.io/badge/-XAMPP-fb7a24?style=flat-square&logo=XAMPP&logoColor=white) 
 - ⚙️ &nbsp;
   ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
